@@ -7,3 +7,24 @@ Food Collection: The snake grows in length as it eats food, and the score increa
 Collision Detection: The game ends if the snake runs into the walls or itself.
 Score Tracking: The game keeps track of the player’s score and displays it on the screen.
 Responsive Design: The game is responsive and playable on both desktop and mobile devices.
+
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/snake-game-app.git
+cd snake-game-app
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
